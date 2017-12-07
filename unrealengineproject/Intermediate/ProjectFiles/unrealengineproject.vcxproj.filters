@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\unrealengineproject.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A906E22C-1EDC-4995-8F5D-ACA0A72A7945}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\unrealengineproject.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\unrealengineprojectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{14CF19EC-5E73-4DD4-AD6E-28C756CDD1E6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\unrealengineproject">
+			<UniqueIdentifier>{5012AD39-E7A9-40F0-AE9C-89466F54D640}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\unrealengineproject\unrealengineproject.Build.cs">
+			<Filter>Source\unrealengineproject</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\unrealengineproject\unrealengineproject.cpp">
+			<Filter>Source\unrealengineproject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\unrealengineproject\unrealengineproject.h">
+			<Filter>Source\unrealengineproject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\unrealengineproject\unrealengineprojectCharacter.cpp">
+			<Filter>Source\unrealengineproject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\unrealengineproject\unrealengineprojectCharacter.h">
+			<Filter>Source\unrealengineproject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\unrealengineproject\unrealengineprojectGameMode.cpp">
+			<Filter>Source\unrealengineproject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\unrealengineproject\unrealengineprojectGameMode.h">
+			<Filter>Source\unrealengineproject</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

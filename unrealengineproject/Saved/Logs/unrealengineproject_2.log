@@ -1,0 +1,890 @@
+﻿Log file open, 12/15/17 01:07:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: unrealengineproject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-671896958) SRandInit(-671896958).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.688347
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Binaries/Win64/UE4Editor-unrealengineproject.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.15-03.07.14:470][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.15-03.07.14:470][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.15-03.07.14:719][  0]LogInit: Computer: DESKTOP-RBJNHNC
+[2017.12.15-03.07.14:719][  0]LogInit: User: first
+[2017.12.15-03.07.14:719][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.15-03.07.14:719][  0]LogInit: High frequency timer resolution =2.338341 MHz
+[2017.12.15-03.07.14:719][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2017.12.15-03.07.14:719][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.15-03.07.14:719][  0]LogMemory: Process Physical Memory: 274.41 MB used, 274.41 MB peak
+[2017.12.15-03.07.14:719][  0]LogMemory: Process Virtual Memory: 269.41 MB used, 269.41 MB peak
+[2017.12.15-03.07.14:719][  0]LogMemory: Physical Memory: 3519.27 MB used,  465.09 MB free, 3984.36 MB total
+[2017.12.15-03.07.14:719][  0]LogMemory: Virtual Memory: 673.86 MB used,  465.09 MB free, 134217728.00 MB total
+[2017.12.15-03.07.15:224][  0]LogInit: Using OS detected language (pt-BR).
+[2017.12.15-03.07.15:224][  0]LogInit: Using OS detected locale (pt-BR).
+[2017.12.15-03.07.15:906][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.15-03.07.20:153][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.15-03.07.20:160][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.12.15-03.07.20:160][  0]LogD3D11RHI:       112/0/1992 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2017.12.15-03.07.20:619][  0]LogD3D11RHI:    1. 'AMD Radeon R7 M260' (Feature Level 11_0)
+[2017.12.15-03.07.20:619][  0]LogD3D11RHI:       2039/0/1992 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2017.12.15-03.07.20:662][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.15-03.07.20:662][  0]LogD3D11RHI:       0/0/1992 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.15-03.07.20:662][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2017.12.15-03.07.20:669][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.15-03.07.20:669][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.15-03.07.20:669][  0]LogWindows: EnumDisplayDevices:
+[2017.12.15-03.07.20:670][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.12.15-03.07.20:670][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:1)
+[2017.12.15-03.07.20:670][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.12.15-03.07.20:670][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.15-03.07.20:670][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R7 M260
+[2017.12.15-03.07.20:670][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.15-03.07.20:670][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.15-03.07.20:670][  0]LogRHI: Texture pool is 1427 MB (70% of 2039 MB)
+[2017.12.15-03.07.20:827][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.15-03.07.20:846][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.12.15-03.07.20:849][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Intermediate/Shaders/WorkingDirectory/7428/).
+[2017.12.15-03.07.20:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/first/AppData/Local/Temp/UnrealShaderWorkingDir/E987D7664CBD79B99AC77C83BEBFA29D/'.
+[2017.12.15-03.07.20:849][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.15-03.07.32:225][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.15-03.07.32:356][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.15-03.07.32:514][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.15-03.07.32:632][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.15-03.07.32:984][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.15-03.07.33:148][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.15-03.07.33:283][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.15-03.07.33:405][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.15-03.07.33:559][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.15-03.07.33:708][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.15-03.07.33:861][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.15-03.07.33:975][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.15-03.07.34:176][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.15-03.07.34:411][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.15-03.07.35:307][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.15-03.07.35:307][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.15-03.07.35:543][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.15-03.07.35:727][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.15-03.07.36:071][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.15-03.07.36:111][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.15-03.07.36:273][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.15-03.07.36:416][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.15-03.07.36:676][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.15-03.07.36:992][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.15-03.07.36:992][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.15-03.07.39:497][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.15-03.07.59:711][  0]LogDerivedDataCache: Loaded boot cache 20.21s 101MB C:/Users/first/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.15-03.07.59:711][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/first/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.15-03.07.59:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.15-03.07.59:711][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.15-03.07.59:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.15-03.07.59:711][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.15-03.07.59:733][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.15-03.07.59:745][  0]LogDerivedDataCache: Using Local data cache path C:/Users/first/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.15-03.07.59:759][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.15-03.07.59:759][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.15-03.07.59:804][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.15-03.07.59:804][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.15-03.08.04:986][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.15-03.08.08:230][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.15-03.08.08:366][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.15-03.08.08:366][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.15-03.08.08:366][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.15-03.08.08:366][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.15-03.08.08:366][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.15-03.08.08:406][  0]LogNetVersion: unrealengineproject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 905466841)
+[2017.12.15-03.08.08:819][  0]LogAssetRegistry: FAssetRegistry took 0.0495 seconds to start up
+[2017.12.15-03.08.10:009][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.143311 seconds
+[2017.12.15-03.08.10:016][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.15-03.08.10:016][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.15-03.08.10:016][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.15-03.08.10:197][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.15-03.08.59:488][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.15-03.08.59:640][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.15-03.09.03:751][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.15-03.09.05:537][  0]SourceControl: Controle de origem desativado
+[2017.12.15-03.09.05:537][  0]SourceControl: Controle de origem desativado
+[2017.12.15-03.09.05:700][  0]SourceControl: Controle de origem desativado
+[2017.12.15-03.09.05:821][  0]SourceControl: Controle de origem desativado
+[2017.12.15-03.09.08:801][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.15-03.09.10:137][  0]LogOcInput: OculusInput pre-init called
+[2017.12.15-03.09.11:656][  0]LogEngine: Initializing Engine...
+[2017.12.15-03.09.11:659][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.15-03.09.12:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.15-03.09.12:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.15-03.09.19:643][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.15-03.09.19:681][  0]LogInit: XAudio2 using 'S19C301 (Áudio Intel(R) para telas)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.15-03.09.19:751][  0]LogInit: FAudioDevice initialized.
+[2017.12.15-03.09.23:753][  0]LogDerivedDataCache: Saved boot cache 4.00s 90MB C:/Users/first/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.15-03.09.24:088][  0]LogInit: Texture streaming: Enabled
+[2017.12.15-03.09.24:866][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.15-03.09.24:896][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={8E692C21-4902-2B00-E992-AFAA32FA1630}
+[2017.12.15-03.09.25:158][  0]LogInit: Transaction tracking system initialized
+[2017.12.15-03.09.29:047][  0]BlueprintLog: New page: Carregar Editor
+[2017.12.15-03.09.33:273][  0]LocalizationService: Localization service is disabled
+[2017.12.15-03.09.36:243][  0]LogConsoleResponse: Display: 
+[2017.12.15-03.09.37:530][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.15-03.09.37:530][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.15-03.09.37:530][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.15-03.09.38:759][  0]LogFileCache: Scanning file cache for directory 'C:/Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/' took 0.43s
+[2017.12.15-03.09.43:118][  0]SourceControl: Controle de origem desativado
+[2017.12.15-03.09.43:118][  0]Cmd: MAP LOAD FILE="../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.15-03.09.43:118][  0]LightingResults: New page: Compilação de Iluminação
+[2017.12.15-03.09.43:178][  0]MapCheck: New page: Verificação de Mapa
+[2017.12.15-03.09.43:178][  0]LightingResults: New page: Compilação de Iluminação
+[2017.12.15-03.09.48:401][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.15-03.09.48:412][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.15-03.09.48:453][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.15-03.09.48:655][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 201,597ms to complete.
+[2017.12.15-03.09.48:655][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.537
+[2017.12.15-03.09.48:724][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.15-03.09.49:126][  0]LogCollectionManager: Loaded 0 collections in 0.002503 seconds
+[2017.12.15-03.09.49:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Saved/Collections/' took 0.01s
+[2017.12.15-03.09.49:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Developers/first/Collections/' took 0.01s
+[2017.12.15-03.09.49:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Collections/' took 0.01s
+[2017.12.15-03.09.49:226][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.15-03.09.49:238][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2365 classes and 521 folders.
+[2017.12.15-03.09.49:328][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.12.15-03.09.51:031][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.12.15-03.09.51:300][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.12.15-03.09.51:470][  0]LogSlate: Took 0.120905 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.15-03.09.51:487][  0]LogSlate: Took 0.014562 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.15-03.09.51:514][  0]LogSlate: Took 0.019919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.15-03.09.51:790][  0]LogRenderer: Reallocating scene render targets to support 856x396 Format 10 NumSamples 1 (Frame:1).
+[2017.12.15-03.09.52:347][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.12.15-03.09.52:347][  0]LogLoad: (Engine Initialization) Total time: 175.51 seconds
+[2017.12.15-03.09.52:347][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.15-03.09.52:347][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.15-03.09.52:383][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.15-03.09.52:454][  0]LogSlate: Took 0.017653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-03.09.52:550][  2]LogAssetRegistry: Asset discovery search completed in 103.7532 seconds
+[2017.12.15-03.09.52:555][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.15-03.09.52:555][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000137 seconds (updated 0 objects)
+[2017.12.15-03.10.39:934][536]LogSlate: Took 0.000583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-03.10.40:142][536]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0022 seconds. Added 1 classes and 0 folders.
+[2017.12.15-03.10.41:473][536]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.15-03.10.42:244][536]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.15-03.10.42:369][536]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.15-03.10.42:412][536]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.15-03.10.42:423][536]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.15-03.10.42:464][536]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2017.12.15-03.10.42:482][536]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.12.15-03.10.42:566][536]LogSlate: Took 0.059078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.15-03.10.43:925][539]LogSlate: Took 0.028882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.15-03.11.44:611][476]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.15-03.11.44:621][476]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.15-03.11.44:665][476]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2017.12.15-03.11.51:501][673]LogMaterialEditor: Saving and Compiling material MF_aoFresnel
+[2017.12.15-03.11.55:350][673]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.15-03.11.55:374][673]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.12.15-03.11.55:726][673]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.12.15-03.11.56:235][673]LogSavePackage: Save=137.77ms
+[2017.12.15-03.11.56:235][673]LogSavePackage: Moving '../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Saved/MF_aoFresnel30972B2B4CE6EC83E3764E8513522517.tmp' to '../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Materiais/Functions/MF_aoFresnel.uasset'
+[2017.12.15-03.11.56:289][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Materiais/Functions/MF_aoFresnel.uasset
+[2017.12.15-03.12.17:896][355]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.12.15-03.12.21:029][397]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.12.21:096][397]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.12.21:118][397]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2017.12.15-03.12.21:123][397]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.12.21:125][397]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.12.21:125][397]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.12.21:129][397]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.12.21:152][397]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.12.21:153][397]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.12.21:153][397]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.12.21:157][397]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.12.21:211][397]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2017.12.15-03.12.21:246][397]MaterialEditorStats: Error: [SM5] Missing function output 'Result'
+[2017.12.15-03.13.12:422][559]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.13.12:423][559]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.13.12:423][559]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.13.12:441][559]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.13.12:454][559]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2017.12.15-03.13.21:898][843]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.13.21:899][843]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.13.21:899][843]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.13.21:903][843]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.13.21:944][843]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2017.12.15-03.14.02:285][140]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.14.02:286][140]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.14.02:286][140]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.14.02:290][140]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.14.02:307][140]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2017.12.15-03.14.19:782][902]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.14.19:782][902]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.14.19:782][902]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.14.19:786][902]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.14.36:874][472]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.14.36:874][472]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.14.36:874][472]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.14.36:878][472]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.14.38:136][523]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.14.38:137][523]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.14.38:137][523]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.14.38:155][523]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.15.29:475][269]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.15.29:476][269]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.15.29:476][269]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.15.29:480][269]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.15.39:901][710]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.15.39:901][710]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.15.39:901][710]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.15.39:904][710]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.15.46:836][976]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.15.46:837][976]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.15.46:837][976]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.15.46:840][976]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.15.48:734][ 49]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.15.48:735][ 49]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.15.48:735][ 49]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.15.48:738][ 49]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.18:451][129]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.18:452][129]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.18:452][129]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.18:455][129]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.20:895][189]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.20:897][189]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.20:897][189]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.20:901][189]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.21:742][213]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.21:743][213]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.21:743][213]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.21:794][213]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.23:632][254]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.23:634][254]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.23:634][254]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.23:638][254]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.25:165][283]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.25:166][283]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.25:166][283]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.25:170][283]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.42:197][819]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.42:198][819]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.42:198][819]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.42:234][819]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.44:157][877]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.44:158][877]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.44:158][877]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.44:162][877]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.46:023][934]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.46:024][934]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.46:024][934]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.46:029][934]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.58:847][342]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.17.58:848][342]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.17.58:848][342]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.17.58:851][342]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.17.58:864][342]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.15-03.18.00:682][405]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.18.00:684][405]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.18.00:684][405]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.18.00:708][405]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.18.00:728][405]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.15-03.18.00:750][405]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.12.15-03.18.00:799][405]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.18.00:800][405]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.18.00:800][405]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.18.00:804][405]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.18.04:819][520]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.18.04:820][520]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.18.04:820][520]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.18.04:846][520]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.18.07:419][601]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.18.07:420][601]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.18.07:420][601]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.18.07:423][601]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.18.07:436][601]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.15-03.18.12:037][787]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.18.12:038][787]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.18.12:038][787]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.18.12:041][787]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.18.21:290][192]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.18.21:290][192]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.18.21:291][192]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.18.21:294][192]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.19.54:057][965]LogMaterialEditor: Saving and Compiling material MF_mdWetness
+[2017.12.15-03.19.58:822][965]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.19.58:822][965]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.19.58:822][965]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.19.58:835][965]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.19.59:101][965]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2017.12.15-03.19.59:102][965]LogMaterial: Warning: /Engine/Transient.Material_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.19.59:103][965]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.19.59:218][965]LogSavePackage: Save=31.06ms
+[2017.12.15-03.19.59:218][965]LogSavePackage: Moving '../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Saved/MF_mdWetness3CFA079747BCB903627E7586E279326E.tmp' to '../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Materiais/Functions/MF_mdWetness.uasset'
+[2017.12.15-03.19.59:402][965]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Materiais/Functions/MF_mdWetness.uasset
+[2017.12.15-03.20.41:857][850]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.20.41:858][850]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.20.41:858][850]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.20.41:863][850]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.20.42:379][851]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2017.12.15-03.20.47:732][ 16]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.20.47:733][ 16]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.20.47:733][ 16]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.20.47:765][ 16]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.20.51:776][216]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.20.51:777][216]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.20.51:777][216]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.20.51:781][216]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.20.52:004][217]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2017.12.15-03.20.55:185][319]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.20.55:185][319]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.20.55:186][319]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.20.55:189][319]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.00:141][526]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.00:142][526]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.00:142][526]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.00:145][526]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.04:696][698]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.04:697][698]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.04:697][698]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.04:702][698]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.21:620][147]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.21:621][147]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.21:621][147]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.21:624][147]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.25:671][340]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.25:672][340]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.25:672][340]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.25:675][340]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.25:688][340]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_1, compiling. 
+[2017.12.15-03.21.34:134][598]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.34:135][598]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.34:135][598]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.34:138][598]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.34:157][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_1, compiling. 
+[2017.12.15-03.21.54:277][457]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.54:278][457]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.54:278][457]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.54:281][457]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.58:692][595]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.58:720][595]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.58:720][595]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.58:723][595]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.21.59:260][611]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.21.59:261][611]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.21.59:261][611]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.21.59:265][611]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.22.04:149][776]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.22.04:150][776]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.22.04:150][776]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.22.04:154][776]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.22.15:699][251]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.22.15:700][251]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.22.15:700][251]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.22.15:705][251]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.22.18:354][333]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.22.18:355][333]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.22.18:355][333]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.22.18:359][333]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.22.47:420][330]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.22.47:420][330]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.22.47:420][330]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.22.47:424][330]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.22.52:164][519]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.22.52:165][519]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.22.52:165][519]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.22.52:168][519]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.23.12:559][157]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.23.12:560][157]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.23.12:560][157]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.23.12:564][157]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.23.18:077][434]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.23.18:078][434]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.23.18:174][434]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.23.18:194][434]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.24.32:937][721]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.24.32:938][721]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.24.32:938][721]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.24.32:941][721]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.24.45:112][138]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.24.45:113][138]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.24.45:113][138]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.24.45:116][138]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.24.51:498][400]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.24.51:499][400]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.24.51:499][400]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.24.51:534][400]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.24.59:302][651]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.24.59:303][651]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.24.59:303][651]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.24.59:314][651]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.25.24:654][589]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.25.24:656][589]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.25.24:656][589]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.25.24:659][589]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.25.26:693][682]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.25.26:694][682]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.25.26:694][682]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.25.26:902][682]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.25.33:721][929]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.25.33:722][929]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.25.33:722][929]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.25.33:725][929]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.26.12:221][394]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.26.12:221][394]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.26.12:251][394]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.26.12:255][394]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.26.18:381][657]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.26.18:382][657]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.26.18:382][657]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.26.18:407][657]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.26.18:419][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_3, compiling. 
+[2017.12.15-03.26.29:766][ 33]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.26.29:767][ 33]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.26.29:767][ 33]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.26.29:789][ 33]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.26.43:047][553]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.26.43:048][553]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.26.43:048][553]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.26.43:065][553]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.26.45:480][632]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.26.45:481][632]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.26.45:481][632]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.26.45:543][632]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.26.48:538][723]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.26.48:539][723]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.26.48:539][723]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.26.48:542][723]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.26.59:917][195]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.26.59:918][195]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.26.59:918][195]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.26.59:921][195]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.27.11:668][616]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_24.MaterialExpressionConstant_1"')'
+[2017.12.15-03.27.11:668][616]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_25.MaterialExpressionConstant_2"')'
+[2017.12.15-03.27.11:679][616]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.27.11:680][616]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.27.11:680][616]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.27.11:691][616]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.27.27:657][300]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.27.27:659][300]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.27.27:659][300]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.27.27:662][300]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.27.30:736][406]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.27.30:737][406]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.27.30:737][406]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.27.30:740][406]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.27.41:694][770]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.27.41:695][770]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.27.41:695][770]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.27.41:699][770]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.28.25:840][281]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.28.25:841][281]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.28.25:841][281]LogMaterial: 	Missing function output 'Result'
+[2017.12.15-03.28.25:845][281]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.30.08:756][947]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.30.08:757][947]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.15-03.30.08:757][947]LogMaterial: 	Missing function output 'baseColorBlended'
+[2017.12.15-03.30.08:761][947]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.30.08:941][947]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2017.12.15-03.30.08:964][947]MaterialEditorStats: Error: [SM5] Missing function output 'baseColorBlended'
+[2017.12.15-03.30.14:424][153]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.30.14:438][153]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.30.31:619][805]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.30.31:629][805]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.30.35:388][925]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.30.35:402][925]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.30.43:924][193]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.30.43:934][193]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.30.49:754][376]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.30.49:765][376]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.31.28:048][746]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFunctionInput'"MaterialGraphNode_30.MaterialExpressionFunctionInput_3"')'
+[2017.12.15-03.31.28:048][746]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_31.MaterialExpressionConstant_3"')'
+[2017.12.15-03.31.28:048][746]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_22.MaterialExpressionClamp_2"')'
+[2017.12.15-03.31.28:050][746]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_24.MaterialExpressionConstant_4"')'
+[2017.12.15-03.31.28:050][746]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_25.MaterialExpressionConstant_5"')'
+[2017.12.15-03.31.28:069][746]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.31.28:079][746]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.31.34:978][ 14]LogEditorTransaction: Undo Resize Node
+[2017.12.15-03.31.35:214][ 14]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.31.35:224][ 14]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.31.35:378][ 14]LogSlate: Took 0.035554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-03.31.46:124][374]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.31.46:178][374]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.31.52:596][578]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.31.52:607][578]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.32.01:829][974]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.32.01:840][974]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.32.09:574][215]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.32.09:585][215]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.32.17:639][476]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.32.17:649][476]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.32.26:682][790]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.32.26:692][790]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.32.38:917][191]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.32.38:929][191]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.32.46:254][484]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.32.46:298][484]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.33.52:611][910]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFunctionInput'"MaterialGraphNode_30.MaterialExpressionFunctionInput_4"')'
+[2017.12.15-03.33.52:611][910]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_31.MaterialExpressionConstant_6"')'
+[2017.12.15-03.33.52:611][910]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_22.MaterialExpressionClamp_3"')'
+[2017.12.15-03.33.52:614][910]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_24.MaterialExpressionConstant_7"')'
+[2017.12.15-03.33.52:614][910]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_25.MaterialExpressionConstant_8"')'
+[2017.12.15-03.33.52:664][910]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.33.52:673][910]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.34.36:021][440]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.34.36:032][440]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.34.41:774][633]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.34.41:786][633]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.34.50:606][914]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.34.50:618][914]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.35.01:791][272]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.35.01:814][272]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.35.08:260][481]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.35.08:270][481]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.35.13:746][677]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.35.13:759][677]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.35.30:179][268]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.35.30:189][268]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.35.37:349][542]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.35.37:392][542]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.35.48:265][975]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFunctionInput'"MaterialGraphNode_30.MaterialExpressionFunctionInput_5"')'
+[2017.12.15-03.35.48:265][975]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_31.MaterialExpressionConstant_9"')'
+[2017.12.15-03.35.48:265][975]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionClamp'"MaterialGraphNode_22.MaterialExpressionClamp_4"')'
+[2017.12.15-03.35.48:269][975]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_24.MaterialExpressionConstant_10"')'
+[2017.12.15-03.35.48:269][975]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_25.MaterialExpressionConstant_11"')'
+[2017.12.15-03.35.48:296][975]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.35.48:307][975]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.35.57:492][273]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.35.57:528][273]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.03:372][498]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.03:409][498]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.11:222][737]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.11:277][737]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.17:720][942]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.17:730][942]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.20:479][ 26]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.20:495][ 26]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.23:557][134]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.23:567][134]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.23:579][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.12.15-03.36.23:606][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.12.15-03.36.23:652][134]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.23:666][134]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.27:447][266]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.27:460][266]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.27:478][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.12.15-03.36.27:508][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.12.15-03.36.27:576][266]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.27:592][266]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.32:751][416]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.32:761][416]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.34:104][454]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.34:120][454]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.36:635][528]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.36:648][528]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.39:644][623]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.39:655][623]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.46:970][849]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.46:980][849]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.36.50:755][989]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.36.50:779][989]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.37.10:552][680]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.37.10:562][680]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.37.21:341][ 45]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.37.21:351][ 45]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.37.24:620][168]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.37.24:632][168]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.37.42:718][946]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.37.42:728][946]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.37.44:314][990]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.37.44:326][990]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.37.49:402][199]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.37.49:412][199]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.37.49:936][200]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2017.12.15-03.37.52:795][288]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.37.52:810][288]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.38.05:402][961]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.38.05:423][961]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.38.06:368][962]LogMaterial: Missing cached shader map for material Material_9, compiling. 
+[2017.12.15-03.38.10:700][128]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.38.10:710][128]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.38.15:797][377]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.38.15:806][377]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.38.21:527][551]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.38.21:537][551]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.08:408][247]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.39.08:418][247]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.16:023][546]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.39.16:032][546]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.16:082][546]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2017.12.15-03.39.26:051][865]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.39.26:062][865]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.26:087][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2017.12.15-03.39.26:125][865]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.39.26:140][865]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.26:167][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2017.12.15-03.39.35:174][232]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.39.35:184][232]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.43:989][561]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.39.44:000][561]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.45:438][613]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.39.45:452][613]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.39.45:480][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2017.12.15-03.40.04:440][338]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_24.MaterialExpressionConstant_13"')'
+[2017.12.15-03.40.04:440][338]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_25.MaterialExpressionConstant_14"')'
+[2017.12.15-03.40.04:473][338]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.40.04:484][338]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.40.14:028][649]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.40.14:039][649]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.40.18:375][788]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.40.18:387][788]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.40.37:240][538]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.40.37:256][538]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.41.00:177][452]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.41.00:189][452]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.41.17:150][ 96]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.41.17:160][ 96]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.41.20:343][218]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.41.20:353][218]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.41.38:493][199]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.41.38:520][199]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.41.43:180][343]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.41.43:189][343]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.42.04:438][252]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.42.04:456][252]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.42.21:726][829]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.42.21:736][829]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.42.27:730][ 78]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.15-03.42.27:741][ 78]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.42.55:153][193]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVertexNormalWS_1, compiling. 
+[2017.12.15-03.43.04:800][581]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.43.35:958][873]LogMaterialEditor: Saving and Compiling material MF_mdWetness
+[2017.12.15-03.43.39:319][873]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.12.15-03.43.39:470][873]LogMaterial: Missing cached shader map for material Material_10, compiling. 
+[2017.12.15-03.43.39:782][873]LogSavePackage: Save=92.50ms
+[2017.12.15-03.43.39:782][873]LogSavePackage: Moving '../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Saved/MF_mdWetnessA18A123442B0A7C42E77FCA80023073C.tmp' to '../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Materiais/Functions/MF_mdWetness.uasset'
+[2017.12.15-03.43.39:806][873]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/first/Documents/GitHub/infiniteloop-project/unrealengineproject/Content/Materiais/Functions/MF_mdWetness.uasset
+[2017.12.15-03.45.07:065][944]LogRenderer: Reallocating scene render targets to support 988x652 Format 10 NumSamples 1 (Frame:1).
+[2017.12.15-03.45.32:305][123]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2017.12.15-03.45.41:279][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.15-03.45.44:835][589]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:289 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2017.12.15-03.45.44:835][589]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
+[2017.12.15-03.45.58:666][589]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
+[2017.12.15-03.45.58:805][589]LogWindows: Error: === Critical error: ===
+[2017.12.15-03.45.58:805][589]LogWindows: Error: 
+[2017.12.15-03.45.58:805][589]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 813] 
+[2017.12.15-03.45.58:805][589]LogWindows: Error: Rendering thread exception:
+[2017.12.15-03.45.58:805][589]LogWindows: Error: Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 182] 
+[2017.12.15-03.45.58:805][589]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0020 - 'INTERNAL_ERROR')
+[2017.12.15-03.45.58:805][589]LogWindows: Error: 
+[2017.12.15-03.45.58:805][589]LogWindows: Error: 
+[2017.12.15-03.45.58:805][589]LogWindows: Error: [Callstack] 0x00000000EFD93FB8 KERNELBASE.dll!UnknownFunction []
+[2017.12.15-03.45.58:805][589]LogWindows: Error: [Callstack] 0x00000000DB8F76D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.15-03.45.58:805][589]LogWindows: Error: [Callstack] 0x00000000B98A330B UE4Editor-Core.dll!UnknownFunction []
+[2017.12.15-03.45.58:805][589]LogWindows: Error: [Callstack] 0x00000000B98347F9 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.15-03.45.58:805][589]LogWindows: Error: [Callstack] 0x000000009DB979FF UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2017.12.15-03.45.58:805][589]LogWindows: Error: [Callstack] 0x000000009DB9BBC0 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2017.12.15-03.45.58:805][589]LogWindows: Error: [Callstack] 0x000000009DB7B3FA UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x000000009DB7B35E UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x000000009DB883E8 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000DAF0C4A7 UE4Editor-RHI.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x000000009D960C70 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x000000009D96618E UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000B9704845 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000B9704E2A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000DB9722C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000DB9732F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000B9AA092C UE4Editor-Core.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000B9A92563 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000F1FB1FE4 KERNEL32.DLL!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000F362EF91 ntdll.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: [Callstack] 0x00000000F362EF91 ntdll.dll!UnknownFunction []
+[2017.12.15-03.45.58:806][589]LogWindows: Error: 
+[2017.12.15-03.45.58:806][589]LogWindows: Error: 
+[2017.12.15-03.45.58:806][589]LogWindows: Error: 
+[2017.12.15-03.45.58:806][589]LogWindows: Error: 
+[2017.12.15-03.45.59:082][589]LogExit: Executing StaticShutdownAfterError
+[2017.12.15-03.45.59:957][589]LogWindows: FPlatformMisc::RequestExit(1)
+[2017.12.15-03.45.59:982][589]Log file closed, 12/15/17 01:45:59

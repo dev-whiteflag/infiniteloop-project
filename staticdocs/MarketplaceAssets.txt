@@ -1,0 +1,15 @@
+:: Listing all marketplace assets that are free to use. ::
+
+> CodePlugins that costs 0$
+
+https://www.unrealengine.com/marketplace/gfur - gFur by GiM
+https://www.unrealengine.com/marketplace/don-s-3d-pathfinding-flying-ai - DoN's 3D Pathfinding for Flying AI
+https://www.unrealengine.com/marketplace/input-buffer - Input Buffer Basic by Isatin
+https://www.unrealengine.com/marketplace/mobile-utils - Mobile Utils by gameDNA
+https://www.unrealengine.com/marketplace/multidex - MultiDex by gameDNA
+https://www.unrealengine.com/marketplace/imageresizuer - ImageResizUEr by NT
+https://www.unrealengine.com/marketplace/low-entry-extended-standard-library - LE Extended Standard Library by Low Entry
+
+> Community Samples
+
+https://www.unrealengine.com/marketplace/polypixel-freebie-pack - Polypixel Freebie Pack by Polypixel
